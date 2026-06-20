@@ -1,0 +1,5 @@
+comtypes; platform_system == "Windows"
+matplotlib
+pandas
+pycaw; platform_system == "Windows"
+selenium

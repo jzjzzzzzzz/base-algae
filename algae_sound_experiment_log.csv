@@ -1,0 +1,83 @@
+date,frequency_hz,duration_seconds,start_time,end_time,system,browser,website,status
+2026-05-08,200,10,2026-05-08T17:11:41,2026-05-08T17:11:44,Windows,Microsoft Edge,https://www.szynalski.com/tone-generator/,failed: 找不到频率输入框。网页结构可能变了。
+2026-05-08,10000,10,2026-05-08T17:11:54,2026-05-08T17:11:55,Windows,Microsoft Edge,https://www.szynalski.com/tone-generator/,failed: 找不到频率输入框。网页结构可能变了。
+2026-05-08,18000,10,2026-05-08T17:12:05,2026-05-08T17:12:05,Windows,Microsoft Edge,https://www.szynalski.com/tone-generator/,"failed: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: MicrosoftEdge=147.0.3912.98); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff66a5af9f5+de55]
+	msedgedriver!GetHandleVerifier [0x7ff66a5afa54+deb4]
+	msedgedriver!GetHandleVerifier [0x7ff66a93453a+39299a]
+	msedgedriver!(No symbol) [0x7ff66a2cc5c2]
+	msedgedriver!(No symbol) [0x7ff66a2e7ea3]
+	msedgedriver!(No symbol) [0x7ff66a349021]
+	msedgedriver!(No symbol) [0x7ff66a35ef8f]
+	msedgedriver!(No symbol) [0x7ff66a319cac]
+	msedgedriver!(No symbol) [0x7ff66a318f06]
+	msedgedriver!(No symbol) [0x7ff66a319ad3]
+	msedgedriver!(No symbol) [0x7ff66a3e7569]
+	msedgedriver!(No symbol) [0x7ff66a3e3d33]
+	msedgedriver!(No symbol) [0x7ff66a3f2f7c]
+	msedgedriver!GetHandleVerifier [0x7ff66a5cbfc8+2a428]
+	msedgedriver!GetHandleVerifier [0x7ff66a5d4dd6+33236]
+	msedgedriver!GetHandleVerifier [0x7ff66a5b6fe4+15444]
+	msedgedriver!GetHandleVerifier [0x7ff66a5b7129+15589]
+	msedgedriver!GetHandleVerifier [0x7ff66a5a4023+2483]
+	KERNEL32!BaseThreadInitThunk [0x7ff97a1fe957+17]
+	ntdll!RtlUserThreadStart [0x7ff97aa8427c+2c]
+"
+2026-05-08,200,10,2026-05-08T17:15:11,2026-05-08T17:15:12,Windows,Microsoft Edge,https://www.szynalski.com/tone-generator/,failed: 找不到频率输入框。请把上面的 [Debug] Page elements 输出发给我。
+2026-05-08,200,10,2026-05-08T17:15:51,2026-05-08T17:15:53,Windows,Microsoft Edge,https://www.szynalski.com/tone-generator/,failed: 找不到频率输入框。请把上面的 [Debug] Page elements 输出发给我。
+2026-05-08,10000,10,2026-05-08T17:16:03,2026-05-08T17:16:04,Windows,Microsoft Edge,https://www.szynalski.com/tone-generator/,failed: 找不到频率输入框。请把上面的 [Debug] Page elements 输出发给我。
+2026-05-08,18000,10,2026-05-08T17:16:14,2026-05-08T17:16:16,Windows,Microsoft Edge,https://www.szynalski.com/tone-generator/,failed: 找不到频率输入框。请把上面的 [Debug] Page elements 输出发给我。
+2026-05-08,200,10,2026-05-08T17:18:23,2026-05-08T17:18:24,Windows,Microsoft Edge,https://www.szynalski.com/tone-generator/,"failed: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: MicrosoftEdge=147.0.3912.98); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff66a5af9f5+de55]
+	msedgedriver!GetHandleVerifier [0x7ff66a5afa54+deb4]
+	msedgedriver!GetHandleVerifier [0x7ff66a93453a+39299a]
+	msedgedriver!(No symbol) [0x7ff66a2cc5c2]
+	msedgedriver!(No symbol) [0x7ff66a2e7ea3]
+	msedgedriver!(No symbol) [0x7ff66a349021]
+	msedgedriver!(No symbol) [0x7ff66a35ef8f]
+	msedgedriver!(No symbol) [0x7ff66a319cac]
+	msedgedriver!(No symbol) [0x7ff66a318f06]
+	msedgedriver!(No symbol) [0x7ff66a319ad3]
+	msedgedriver!(No symbol) [0x7ff66a3e7569]
+	msedgedriver!(No symbol) [0x7ff66a3e3d33]
+	msedgedriver!(No symbol) [0x7ff66a3f2f7c]
+	msedgedriver!GetHandleVerifier [0x7ff66a5cbfc8+2a428]
+	msedgedriver!GetHandleVerifier [0x7ff66a5d4dd6+33236]
+	msedgedriver!GetHandleVerifier [0x7ff66a5b6fe4+15444]
+	msedgedriver!GetHandleVerifier [0x7ff66a5b7129+15589]
+	msedgedriver!GetHandleVerifier [0x7ff66a5a4023+2483]
+	KERNEL32!BaseThreadInitThunk [0x7ff97a1fe957+17]
+	ntdll!RtlUserThreadStart [0x7ff97aa8427c+2c]
+"
+2026-05-08,200,10,2026-05-08T17:23:11,2026-05-08T17:23:25,Windows,Microsoft Edge,100%,100%,https://www.szynalski.com/tone-generator/#200,success
+2026-05-08,10000,10,2026-05-08T17:23:35,2026-05-08T17:23:35,Windows,Microsoft Edge,100%,100%,https://www.szynalski.com/tone-generator/#10000,"failed: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: MicrosoftEdge=147.0.3912.98); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff66a5af9f5+de55]
+	msedgedriver!GetHandleVerifier [0x7ff66a5afa54+deb4]
+	msedgedriver!GetHandleVerifier [0x7ff66a93453a+39299a]
+	msedgedriver!(No symbol) [0x7ff66a2cc5c2]
+	msedgedriver!(No symbol) [0x7ff66a2e7ea3]
+	msedgedriver!(No symbol) [0x7ff66a349021]
+	msedgedriver!(No symbol) [0x7ff66a35ef8f]
+	msedgedriver!(No symbol) [0x7ff66a319cac]
+	msedgedriver!(No symbol) [0x7ff66a318f06]
+	msedgedriver!(No symbol) [0x7ff66a319ad3]
+	msedgedriver!(No symbol) [0x7ff66a3e7569]
+	msedgedriver!(No symbol) [0x7ff66a3e3d33]
+	msedgedriver!(No symbol) [0x7ff66a3f2f7c]
+	msedgedriver!GetHandleVerifier [0x7ff66a5cbfc8+2a428]
+	msedgedriver!GetHandleVerifier [0x7ff66a5d4dd6+33236]
+	msedgedriver!GetHandleVerifier [0x7ff66a5b6fe4+15444]
+	msedgedriver!GetHandleVerifier [0x7ff66a5b7129+15589]
+	msedgedriver!GetHandleVerifier [0x7ff66a5a4023+2483]
+	KERNEL32!BaseThreadInitThunk [0x7ff97a1fe957+17]
+	ntdll!RtlUserThreadStart [0x7ff97aa8427c+2c]
+"
