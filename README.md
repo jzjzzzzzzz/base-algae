@@ -1,3 +1,12 @@
+> [!IMPORTANT]
+> **Archived on 2026-08-15.** Maintained sound-exposure automation, research
+> artifacts, and turbidity/lux analysis have moved to
+> [Algae Research Toolkit](https://github.com/jzjzzzzzzz/algae-research-toolkit).
+> This repository remains intact as a read-only historical record. See the
+> [migration guide](https://github.com/jzjzzzzzzz/algae-research-toolkit/blob/main/MIGRATION.md).
+
+---
+
 # Base Algae Sound Experiment
 
 Python research workspace for an algae sound-frequency experiment. The project includes one script for running timed tone exposure in Microsoft Edge and one script for plotting measured turbidity/lux data.
